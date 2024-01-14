@@ -1,0 +1,21 @@
+{
+  "name": "cheating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spamListOfCommands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.0",
+    "prompt-sync": "^4.2.0",
+    "prompts": "^2.4.2",
+    "tmi.js": "^1.8.5",
+    "tmi.js-proxy": "^1.5.0",
+    "twitch-get-stream": "^0.6.0"
+  }
+}
